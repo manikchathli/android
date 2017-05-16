@@ -2,9 +2,9 @@ LineageXtended
 ============
 
 ##### LineageXtended is a new ROM based on LineageOS (LOS) that is essentially a light extenstion of LineageOS. It : 
- - is better optimized
- - has more features so you don't miss out the features of other roms
- - is keeping the awesome battery life and performance of Lineage
+ - is better optimized ;
+ - has more features so you don't miss out the features of other roms ;
+ - is keeping the awesome battery life and performance of Lineage ;
 
 Sources
 ============
@@ -26,10 +26,10 @@ Sources
 
 ##### Creating directory for where the LineageXtended repo will be stored and synced
 
-      $ mkdir ~/LXD
-      $ cd ~/LXD
+      $ mkdir ~/LOX
+      $ cd ~/LOX
 
-##### Initializing the LXD repo
+##### Initializing the LOX repo
       $ repo init -u git://github.com/LineageXtended/android.git -b cm-14.1
 
 ##### Sync your sources with :
