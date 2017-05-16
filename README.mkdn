@@ -1,7 +1,7 @@
 LineageXtended is a new ROM based on LOS that is essentially a light extenstion of LineageOS that is better optimized and has more features so you dont miss out the features of other roms, whilst keeping the awesome battery life and performance of Lineage. 
 
 Initialize the Repo with :
-$  repo init -u git://github.com/LineageXtended/android.git -b N
+$  repo init -u git://github.com/LineageXtended/android.git -b cm-14.1
 
 Sync your sources with :
 $  repo sync  -f --force-sync --no-clone-bundle
