@@ -25,7 +25,7 @@
     <project path="packages/apps/PhoneCommon" name="LineageOMS/android_packages_apps_PhoneCommon" />
     <project path="packages/apps/Settings" name="LineageXtended/android_packages_apps_Settings" />
     <project path="system/sepolicy" name="LineageOMS/android_system_sepolicy" />
-    <project path="vendor/cm" name="LineageOMS/android_vendor_cm" />
+    <project path="vendor/lox" name="LineageXtended/android_vendor_lox" />
 
     <!-- Track ThemeInterfacer -->
     <project path="packages/services/ThemeInterfacer" name="substratum/interfacer" remote="github" revision="n-rootless" />
