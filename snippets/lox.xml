@@ -15,7 +15,7 @@
     <remove-project name="LineageOS/android_vendor_cm" />
 
     <!-- Add repos for Substratum support -->
-    <project path="frameworks/base" name="LineageOMS/android_frameworks_base" />
+    <project path="frameworks/base" name="LineageXtended/android_frameworks_base" />
     <project path="frameworks/native" name="LineageOMS/android_frameworks_native" />
     <project path="packages/apps/Contacts" name="LineageOMS/android_packages_apps_Contacts" />
     <project path="packages/apps/ContactsCommon" name="LineageOMS/android_packages_apps_ContactsCommon" />
@@ -23,7 +23,7 @@
     <project path="packages/apps/ExactCalculator" name="LineageOMS/android_packages_apps_ExactCalculator" />
     <project path="packages/apps/PackageInstaller" name="LineageOMS/android_packages_apps_PackageInstaller" />
     <project path="packages/apps/PhoneCommon" name="LineageOMS/android_packages_apps_PhoneCommon" />
-    <project path="packages/apps/Settings" name="LineageOMS/android_packages_apps_Settings" />
+    <project path="packages/apps/Settings" name="LineageXtended/android_packages_apps_Settings" />
     <project path="system/sepolicy" name="LineageOMS/android_system_sepolicy" />
     <project path="vendor/cm" name="LineageOMS/android_vendor_cm" />
 
