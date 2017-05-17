@@ -5,6 +5,11 @@ LineageXtended
  - is better optimized ;
  - has more features so you don't miss out the features of other roms ;
  - is keeping the awesome battery life and performance of Lineage ;
+ 
+Connect with Us
+============
+
+<a href="https://t.me/joinchat/AAAAAEPYA1Gta7k0xXQJDg">Telegram</a>
 
 Sources
 ============
