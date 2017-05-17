@@ -36,4 +36,5 @@
     <project path="packages/apps/SnapdragonCamera" name="omnirom/android_packages_apps_SnapdragonCamera" remote="github" revision="android-7.1" />
     <project path="./" name="LineageXtended/Makefile" remote="github" revision="master" />
     <project path="packages/apps/Launcher3" name="LineageXtended/android_packages_apps_Launcher3" remote="github" revision="android-7.1" />
+    <project path="packages/apps/Browser" name="LineageXtended/platform_packages_apps_Browser" remote="github" revision="7.1.1" />
 </manifest>
