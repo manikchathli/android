@@ -10,6 +10,7 @@
     <remove-project name="LineageOS/android_packages_apps_PackageInstaller" />
     <remove-project name="LineageOS/android_packages_apps_PhoneCommon" />
     <remove-project name="LineageOS/android_packages_apps_Settings" />
+    <remove-project name="LineageOS/android_platform_external_iw" />
     <remove-project name="LineageOS/android_system_sepolicy" />
     <remove-project name="LineageOS/android_vendor_cm" />
     <remove-project name="LineageOS/android_build" />
@@ -29,11 +30,12 @@
     <project path="frameworks/base" name="LineageXtended/android_frameworks_base" />
     <project path="packages/apps/Settings" name="LineageXtended/android_packages_apps_Settings" />
     <project path="build" name="LineageXtended/android_build" />
+    <project path="./" name="LineageXtended/Makefile" remote="github" revision="master" />
+    <project path="packages/apps/Launcher3" name="LineageXtended/android_packages_apps_Launcher3" remote="github" revision="android-7.1" />
+    <project path="external/iw" name="LineageXtended/android_platform_external_iw" remote="github" revision="cm-14.1" />
   
     <!-- Track ThemeInterfacer -->
     <project path="packages/services/ThemeInterfacer" name="substratum/interfacer" remote="github" revision="n-rootless" />
   
     <project path="packages/apps/SnapdragonCamera" name="omnirom/android_packages_apps_SnapdragonCamera" remote="github" revision="android-7.1" />
-    <project path="./" name="LineageXtended/Makefile" remote="github" revision="master" />
-    <project path="packages/apps/Launcher3" name="LineageXtended/android_packages_apps_Launcher3" remote="github" revision="android-7.1" />
 </manifest>
