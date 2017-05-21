@@ -15,6 +15,7 @@
     <remove-project name="LineageOS/android_vendor_cm" />
     <remove-project name="LineageOS/android_build" />
     <remove-project name="platform/external/iw" />
+    <remove-project name="frameworks/opt/telephony" />
   
     <!-- Add repos for Substratum support -->
     <project path="frameworks/native" name="LineageOMS/android_frameworks_native" />
@@ -36,6 +37,7 @@
     <project path="external/iw" name="LineageXtended/android_platform_external_iw" remote="github" revision="cm-14.1" />
     <project path="packages/apps/XtendedWallz" name="LineageXtended/packages_apps_XtendedWallz" remote="github" revision="master" />
     <project path="packages/apps/SnapdragonCamera" name="LineageXtended/packages_apps_SnapdragonCamera" remote="github" revision="master" />
+    <project path="frameworks/opt/telephony" name="LineageXtended/android_frameworks_opt_telephony" remote="github" revision="master" />
     
     <!-- Track ThemeInterfacer -->
     <project path="packages/services/ThemeInterfacer" name="substratum/interfacer" remote="github" revision="n-rootless" />
