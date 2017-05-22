@@ -33,11 +33,11 @@
     <project path="packages/apps/Settings" name="LineageXtended/android_packages_apps_Settings" />
     <project path="build" name="LineageXtended/android_build" />
     <project path="./" name="LineageXtended/Makefile" remote="github" revision="master" />
-    <project path="packages/apps/Launcher3" name="LineageXtended/android_packages_apps_Launcher3" remote="github" revision="android-7.1" />
     <project path="external/iw" name="LineageXtended/android_platform_external_iw" remote="github" revision="cm-14.1" />
     <project path="packages/apps/XtendedWallz" name="LineageXtended/packages_apps_XtendedWallz" remote="github" revision="master" />
     <project path="packages/apps/SnapdragonCamera" name="LineageXtended/packages_apps_SnapdragonCamera" remote="github" revision="master" />
     <project path="frameworks/opt/telephony" name="LineageXtended/android_frameworks_opt_telephony" remote="github" revision="master" />
+    <project path="packages/apps/OmniSwitch" name="ResurrectionRemix/android_packages_apps_OmniSwitch" revision="nougat" />
     
     <!-- Track ThemeInterfacer -->
     <project path="packages/services/ThemeInterfacer" name="substratum/interfacer" remote="github" revision="n-rootless" />
