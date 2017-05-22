@@ -15,7 +15,6 @@
     <remove-project name="LineageOS/android_vendor_cm" />
     <remove-project name="LineageOS/android_build" />
     <remove-project name="platform/external/iw" />
-    <remove-project name="frameworks/opt/telephony" />
   
     <!-- Add repos for Substratum support -->
     <project path="frameworks/native" name="LineageOMS/android_frameworks_native" />
